@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+
+}
+
+.body {
+    margin: 20px;
+    color: #333;
+}
+
+
+h1 {
+    color: #2c3e50;
+}
+
+p {
+    color: #555;
+}
+
+.blue {
+    color: #4a90e2;
+}
+
+.purple {
+    color: #879bff;
+}
+
+.one-line {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.blank {
+    background-color: #f0f4f8;
+    border: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+/* Each post card: same size */
+.post {
+    width: 500px;
+    min-height: 600px;
+
+}
+
+/* Ensure content area grows with content */
+.card-body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: visible;
+}
+
+/* Make sure <p> doesn't get cut off */
+.card-body p {
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+.edit-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #879bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    display: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+.my-post {
+    border: 3px solid #879bff;
+}
+
+.card:hover .edit-button {
+    display: block;
+}
+
+.card {
+    position: relative;
+}
