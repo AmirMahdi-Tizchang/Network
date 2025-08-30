@@ -9,8 +9,6 @@
 
 A Twitter-like social network website built using Django and Django REST Framework.
 
----
-
 ## Demo
 
 ### Application Walkthrough
@@ -21,8 +19,6 @@ A Twitter-like social network website built using Django and Django REST Framewo
 
 [![Network Project Demo](https://img.youtube.com/vi/2tNgXRcism4/0.jpg)](https://youtu.be/2tNgXRcism4)
 
----
-
 ## Features
 
 - **User Authentication**: Secure login and registration system.
@@ -32,16 +28,12 @@ A Twitter-like social network website built using Django and Django REST Framewo
 - **Following System**: Follow and unfollow other users to see their posts.
 - **Pagination**: Efficient navigation through posts.
 
----
-
 ## Technologies Used
 
 - **Backend**: Django, Django REST Framework
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: SQLite
 - **Deployment**: Gunicorn, Whitenoise
-
----
 
 ## Setup Instructions
 
@@ -85,13 +77,9 @@ A Twitter-like social network website built using Django and Django REST Framewo
 
 7. Access the app at: `http://127.0.0.1:8000/`
 
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contact
 
