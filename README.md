@@ -5,9 +5,9 @@
 [![Django](https://img.shields.io/badge/Django-5.1.7-green)](https://www.djangoproject.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-**CS50W Project 4: Social Network**
+**Social Network**
 
-A Twitter-like social network website built using Django and Django REST Framework. The name "Myco" is inspired by mycorrhizal networks, reflecting the interconnected nature of users.
+A Twitter-like social network website built using Django and Django REST Framework.
 
 ---
 
