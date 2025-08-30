@@ -3,6 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-5.1.7-green)](https://www.djangoproject.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-4.6-purple)](https://getbootstrap.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 **Social Network**
